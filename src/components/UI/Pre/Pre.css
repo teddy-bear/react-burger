@@ -1,0 +1,9 @@
+.Pre {
+    border: 1px dashed red;
+}
+
+@media (min-width: 600px) {
+    .Pre {
+
+    }
+}
